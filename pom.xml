@@ -31,7 +31,7 @@
 		<module>dingtalk/ballcat-dingtalk</module>
 		<module>dingtalk/ballcat-spring-boot-starter-dingtalk</module>
 
-		<module>excel/ballcat-spring-boot-starter-easyexcel</module>
+		<module>excel/ballcat-spring-boot-starter-fastexcel</module>
 
 		<module>file/ballcat-spring-boot-starter-file</module>
 
@@ -54,8 +54,8 @@
 		<module>kafka/ballcat-kafka-stream</module>
 		<module>kafka/ballcat-spring-boot-starter-kafka</module>
 
-		<module>log/ballcat-log</module>
-		<module>log/ballcat-spring-boot-starter-log</module>
+		<module>log/ballcat-operation-log</module>
+		<module>log/ballcat-spring-boot-starter-operation-log</module>
 
 		<module>mail/ballcat-spring-boot-starter-mail</module>
 
